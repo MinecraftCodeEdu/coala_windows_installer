@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.106
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Coala", "Coala\Coala.vdproj", "{25424B7E-548D-42F5-8BDF-8C54637B5F2E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{25424B7E-548D-42F5-8BDF-8C54637B5F2E}.Debug|Default.ActiveCfg = Debug
+		{25424B7E-548D-42F5-8BDF-8C54637B5F2E}.Debug|Default.Build.0 = Debug
+		{25424B7E-548D-42F5-8BDF-8C54637B5F2E}.Release|Default.ActiveCfg = Release
+		{25424B7E-548D-42F5-8BDF-8C54637B5F2E}.Release|Default.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B867C4A2-D6BB-4B33-9E19-47126E2E5909}
+	EndGlobalSection
+EndGlobal
